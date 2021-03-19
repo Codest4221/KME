@@ -2,11 +2,4 @@
 int main(){
 // ekrana yazır basar
 printf("hello world");
-
-
-
-
-
-
-
 }
